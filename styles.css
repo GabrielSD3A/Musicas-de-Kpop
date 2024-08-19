@@ -1,0 +1,37 @@
+body {
+    color: rgb(255 255 255 / 94%);
+    background: rgb(0, 0, 0);
+    margin: 0px;
+    font-family: "Merriweather", serif;
+}
+
+header {
+    border-bottom: solid 2px rgb(94 53 198 / 72%);
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(117, 44, 185);
+}
+
+/* código omitido */
+
+section {
+    background: rgb(44, 38, 53);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+h1 {
+    font-size: 30px
+}
+
+p {
+    font-size: 20px
+
+}
